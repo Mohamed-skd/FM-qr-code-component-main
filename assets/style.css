@@ -13,13 +13,12 @@ body > main {
   article {
     margin: auto;
     padding: 1rem;
-    max-width: 15rem;
+    width: 20rem;
     text-align: center;
     background-color: var(--White);
     border-radius: 1rem;
 
     img {
-      max-width: 100%;
       border-radius: 1rem;
     }
     h1 {
